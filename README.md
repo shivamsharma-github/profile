@@ -12,7 +12,7 @@ About me :
 # Skills & Projects 
 - **SQL** : 
 - **Power BI** : 
-- **Microsoft Excel** : 
+- **Microsoft Excel** : https://github.com/shivamsharma-github/Bike-Sales-Analysis.git
 - **Business Analysis** : 
 
 
