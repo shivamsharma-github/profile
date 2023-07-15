@@ -17,4 +17,11 @@ About me :
 
 
 # Courses and Certification: 
+-  Microsoft Certified: Power BI Data Analyst Associate
 -  Google Data Analytics Specialization
+-  IBM Data Engineering Foundations
+-  Big Data Developer Certification From TrendyTech
+
+
+# Exam: 
+- PL-300 Power BI Data Analyst Associate
