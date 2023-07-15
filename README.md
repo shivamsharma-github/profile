@@ -1,4 +1,4 @@
-# 👋 Hello Everyone, I’m Shivam.
+# 👋 Hello, I’m Shivam.
 
 About me :
 
