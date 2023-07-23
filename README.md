@@ -2,9 +2,9 @@
 
 About me :
 
-- I’m interested in Data Analysis📉, visualization📈 and love learning new skills📚.
+- I’m interested in Data Analysis, visualization and love learning new skills.
 - I've experience in SQL, Power BI, Excel dashboard building and design.
-- I've self taught myself to get transitioned into Data Analytics and start a new journey 🛣️.
+- I've self taught myself to get transitioned into Data Analytics and start a new journey.
 - Here's my [Linkedin](https://www.linkedin.com/in/shivam-sharma-24a8b51b5) and [Portfolio]() Landing page [Power BI Portfolio]()
 - Side Note : I'm still learning everyday and growing my skills as I truly believe in the phrase "Learning should never Stop".
 
