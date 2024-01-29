@@ -10,7 +10,8 @@ About me :
 
 # Skills & Projects 
 - **SQL** : [Housing Data Analysis](https://github.com/shivamsharma-github/SQL-Project-HousingDataAnalysis), [Covid Data Analysis](https://github.com/shivamsharma-github/SQL-Project-CovidDataAnalysis)
-- **Power BI** : [AtliQ Hardware Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiMWIwODQwOGEtYjhmZC00ZGI5LWE3MzQtMWNjYmI3ZjM1N2NhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9), [Data Professional Survey](https://app.powerbi.com/view?r=eyJrIjoiZjMyMzgzMjQtMjg5ZC00NmI0LTg2NzItYWY0NjQ3MzE4ZTk2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+- **Power BI** : [Bike Store Sales Analysis](https://app.powerbi.com/view?r=eyJrIjoiOGIxY2Q3MjctN2Q5Yy00NzI5LWJlYzQtYTlhYTQ3MTg5N2FiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+[AtliQ Hardware Business Insights 360](https://app.powerbi.com/viewr=eyJrIjoiMWIwODQwOGEtYjhmZC00ZGI5LWE3MzQtMWNjYmI3ZjM1N2NhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9), [Data Professional Survey](https://app.powerbi.com/view?r=eyJrIjoiZjMyMzgzMjQtMjg5ZC00NmI0LTg2NzItYWY0NjQ3MzE4ZTk2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 - **Microsoft Excel** : [Bike Sales Analysis](https://github.com/shivamsharma-github/Bike-Sales-Analysis.git), [Call Center Analysis](https://github.com/shivamsharma-github/Call-Center-Analysis.git)
 
 
